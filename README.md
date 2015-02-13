@@ -20,8 +20,6 @@ For example:
 
 "makers academy".lazer(5, :stun) #=> "makes acrademy"
 
-Go forth and arm the lazer!
-
 
 
 Go forth and arm the lazer!!!
